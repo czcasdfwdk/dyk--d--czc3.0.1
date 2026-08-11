@@ -8,7 +8,7 @@ local Players = game:GetService("Players")
 local PlayerGui = Players.LocalPlayer:WaitForChild("PlayerGui")
 local TweenService = game:GetService("TweenService")
 
-local SCRIPT_URL = "https://github.com/czcasdfwdk/dyk-jzq-czc/blob/main/dyk-jzqjzq2-new.lua"
+local SCRIPT_URL = "https://raw.githubusercontent.com/czcasdfwdk/dyk-jzq-czc/main/dykjzqjzq2-czc.lua"
 
 local screenGui = Instance.new("ScreenGui")
 screenGui.Name = "LoaderGUI"
